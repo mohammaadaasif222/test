@@ -1,0 +1,5 @@
+{{#user}}
+Name: Mohammad Aasif
+Skills: HTML, CSS, JS, Next.js, React.js,Node.js, Express.js, 
+Email: kasifsaif784@gmail.com
+{{/user}}
